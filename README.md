@@ -7,6 +7,8 @@ MongoDB with self-signed SSL in a docker container. For test purposes only - do 
 docker build -t mongodb:latest .
 ```
 
+>by building the image, new certificates will be created 
+
 then run with:
 
 ```
