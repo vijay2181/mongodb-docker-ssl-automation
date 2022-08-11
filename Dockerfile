@@ -1,4 +1,4 @@
-FOM alpine:latest AS build
+FROM alpine:latest AS build
 
 WORKDIR /home/mongodb
 
